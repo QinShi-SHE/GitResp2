@@ -8,5 +8,6 @@ package com.qinshi;
  */
 public class Person {
     private int age;
+    private String name;
     private char sex;
 }
