@@ -7,4 +7,7 @@ package com.qinshi;
  * @Date 2021/2/11 16:32
  */
 public class Student {
+    private String name;
+    private int age;
+    private char sex;
 }
